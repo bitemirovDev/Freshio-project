@@ -1,0 +1,26 @@
+
+@font-face {
+    font-family: 'Mazzard regular';
+    src: url("../../Fonts/Mazzard/mazzardsofth-regular.otf");
+}
+
+body{
+    background-color: #fcf3ea;
+    background-image: url("../../img/fon_img.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+    background-position: left right;
+    padding: 0 10%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    background-color: #fff;
+    padding: 0 5%;
+    position: relative;
+    z-index: 1;margin-bottom: 100px;
+}
